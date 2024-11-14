@@ -1,5 +1,4 @@
-# Develop By : Naveen Kumar T
-# Req No : 212223220067
+
 # EX-NO-12-ELGAMAL-ALGORITHM
 
 ## AIM:
